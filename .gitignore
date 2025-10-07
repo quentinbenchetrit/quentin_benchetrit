@@ -1,0 +1,21 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+venv/
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers de logs
+*.log
+
+# Dossier de build
+build/
+dist/
+
+# Fichiers personnels
+notes.txt
